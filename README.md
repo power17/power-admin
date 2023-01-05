@@ -1,4 +1,5 @@
 # fast-cache
 
 短小精悍的前端内存工具，防止内存“侧漏”
-Hello world
+
+## 安装下载
