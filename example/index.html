@@ -7,7 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <p>fast-cache</p>
+    <p>fast-cache example</p>
     <script src="../release/budle.js"></script>
+    <script>
+       
+        var FC = window.FastCache;   
+        var cache = new FC();
+        cache.set('a', 111);
+        alert(cache.get('a'));
+    </script>
 </body>
 </html>
