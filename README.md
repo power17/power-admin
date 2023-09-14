@@ -2,7 +2,7 @@
 
 vite 4.4.5 + vue3.3.4
 
-- 前端依赖
+- 前端配置
   link [https://docs.spicyboy.cn/guide/standard.html#editorconfig-%E9%85%8D%E7%BD%AE]
 
 * EditorConfig 帮助开发人员在 不同的编辑器 和 IDE 之间定义和维护一致的编码样式
