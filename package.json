@@ -18,6 +18,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "dayjs": "^1.11.9",
+    "vite-plugin-eslint": "^1.8.1",
     "vue": "^3.3.4"
   },
   "devDependencies": {
@@ -26,6 +28,7 @@
     "@typescript-eslint/eslint-plugin": "^6.7.0",
     "@typescript-eslint/parser": "^6.7.0",
     "@vitejs/plugin-vue": "^4.2.3",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
     "cz-git": "^1.7.1",
     "czg": "^1.7.1",
     "eslint": "^8.49.0",
@@ -35,8 +38,12 @@
     "husky": "^8.0.3",
     "lint-staged": "^14.0.1",
     "prettier": "^3.0.3",
+    "rollup-plugin-visualizer": "^5.9.2",
     "typescript": "^5.0.2",
     "vite": "^4.4.5",
+    "vite-plugin-compression": "^0.5.1",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-svg-icons": "^2.0.1",
     "vue-tsc": "^1.8.5"
   },
   "config": {
